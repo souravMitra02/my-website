@@ -49,6 +49,12 @@
     text-decoration: none;
     color: black;
   }
+  .navbar a:hover{
+    background-color: gray;
+    color:white;
+    padding: 20px 30px;
+    font-size: 20px;
+  }
   .navbar a {
     margin: 0 10px;
     text-decoration: none;
@@ -101,6 +107,7 @@
   .products {
     padding: 40px 0;
     text-align: center;
+    background-color: #F2F4F6;
   }
   .two-part{
     margin-bottom: 10%;
@@ -202,9 +209,20 @@
     color:black;
     cursor: pointer;
   }
+
+  .footer-nav a:hover{
+    background-color: gray;
+    color:white;
+    padding: 20px 30px;
+    font-size: 20px;
+  }
   #copy-right{
-    text-align: center;
+   text-align: center;
     padding: 10px 0;
     font-size: 14px;
+    background-color: #f1f1f1;
     color:#333
+    
   }
+
+                     /* Thank You */
